@@ -1,0 +1,6 @@
+[
+  {"id": "1", "text": "Python is a popular programming language.", "category": "programming"},
+  {"id": "2", "text": "Java is widely used for enterprise applications.", "category": "programming"},
+  {"id": "3", "text": "Machine learning enables computers to learn from data.", "category": "ml"},
+  {"id": "4", "text": "Vector databases are useful for semantic search.", "category": "database"}
+]
